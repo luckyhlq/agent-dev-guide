@@ -98,7 +98,7 @@ export default withMermaid(defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-repo/agent-dev-guide' }
+      { icon: 'github', link: 'https://github.com/luckyhlq/agent-dev-guide' }
     ],
 
     footer: {
@@ -115,7 +115,7 @@ export default withMermaid(defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/your-repo/agent-dev-guide/edit/main/docs/:path',
+      pattern: 'https://github.com/luckyhlq/agent-dev-guide/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
 
