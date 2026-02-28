@@ -5,7 +5,7 @@
 ### 主要仓库
 
 **主仓库**
-- GitHub：`https://github.com/your-username/agent-dev-guide`
+- GitHub：`https://github.com/luckyhlq/agent-dev-guide`
 - 包含所有章节的完整代码示例
 
 **章节代码仓库**
@@ -21,7 +21,7 @@
 
 ```bash
 # 克隆模板
-git clone https://github.com/your-username/agent-template.git my-agent
+git clone https://github.com/luckyhlq/agent-template.git my-agent
 cd my-agent
 
 # 安装依赖
@@ -39,7 +39,7 @@ python main.py
 
 ```bash
 # 克隆LangChain模板
-git clone https://github.com/your-username/langchain-agent-template.git my-langchain-agent
+git clone https://github.com/luckyhlq/langchain-agent-template.git my-langchain-agent
 cd my-langchain-agent
 
 # 安装依赖
@@ -56,7 +56,7 @@ python app.py
 
 ```bash
 # 克隆CrewAI模板
-git clone https://github.com/your-username/crewai-template.git my-crew
+git clone https://github.com/luckyhlq/crewai-template.git my-crew
 cd my-crew
 
 # 安装依赖
@@ -102,7 +102,7 @@ python main.py
 
 ```bash
 # 克隆所有示例项目
-git clone https://github.com/your-username/agent-examples.git
+git clone https://github.com/luckyhlq/agent-examples.git
 cd agent-examples
 
 # 查看所有项目
@@ -132,7 +132,7 @@ python main.py
 
 2. **克隆你的fork**
    ```bash
-   git clone https://github.com/your-username/agent-dev-guide.git
+   git clone https://github.com/luckyhlq/agent-dev-guide.git
    cd agent-dev-guide
    ```
 

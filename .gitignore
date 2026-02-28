@@ -49,3 +49,12 @@ ENV/
 # Distribution
 dist/
 build/
+
+# Deployment & Server Config (敏感信息，不上传)
+deploy.sh
+nginx-*.conf
+*.pem
+*.key
+*.crt
+server-config/
+.ssh/
